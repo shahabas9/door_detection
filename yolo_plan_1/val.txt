@@ -1,0 +1,3 @@
+data/images/val/Floor plan 3.png
+data/images/val/Floorplan 2.png
+data/images/val/floor plan 1.png

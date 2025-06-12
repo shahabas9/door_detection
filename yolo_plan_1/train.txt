@@ -1,0 +1,3 @@
+data/images/train/Floor plan 3.png
+data/images/train/Floorplan 2.png
+data/images/train/floor plan 1.png

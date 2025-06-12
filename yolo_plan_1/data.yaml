@@ -1,0 +1,7 @@
+path: .  # base path to your dataset directory (optional if using full paths below)
+
+train: ./data/images/train
+val: ./data/images/val
+
+nc: 2
+names: ['door', 'str']
